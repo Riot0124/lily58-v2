@@ -32,7 +32,7 @@
 &kp ESC    &kp LSFT  &kp LBRC &kp RBRC  &kp GRAVE &kp DEL                     &trans   &kp MPRV   &kp MPLY &kp MNXT  &kp MUTE  &kp VOLU
 &kp TAB    &kp PGUP  &kp UP   &kp PGDN  &kp INS  &kp HOME                      &trans   &trans     &kp UP   &trans    &trans    &kp VOLD
 &kp LCTRL   &kp LEFT  &kp DOWN &kp RIGHT &kp PSCR &kp END    &trans &trans      &trans    &kp LEFT  &kp DOWN &kp RIGHT &trans    &kp RCTRL  
-&kp LSFT     &kp CAPS  &kp LGUI &kp LALT  &kp LSFT &kp LCTL &mo 2  &mo 3    &kp "~"   &kp "|"   &kp SEMI &kp CLN   &kp BSLH  &kp RSFT
+&kp LSFT     &kp CAPS  &kp LGUI &kp LALT  &kp LSFT &kp LCTL &mo 2  &mo 3    &trans   &kp "|"   &kp SEMI &kp CLN   &kp BSLH  &kp RSFT
                                &kp LCTRL &kp LALT &kp LGUI   &kp SPACE &kp ENTER  &kp RGUI &kp RALT &kp RCTRL
             >;
 
