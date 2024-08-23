@@ -32,7 +32,7 @@
 &kp ESC    &kp LSFT  &kp LBRC &kp RBRC  &kp GRAVE &kp DEL                     &trans   &kp MPRV   &kp MPLY &kp MNXT  &kp MUTE  &kp VOLU
 &kp TAB    &kp PGUP  &kp UP   &kp PGDN  &kp INS  &kp HOME                      &trans   &trans     &kp UP   &trans    &trans    &kp VOLD
 &kp LCTRL   &kp LEFT  &kp DOWN &kp RIGHT &kp PSCR &kp END                    &trans    &kp LEFT  &kp DOWN &kp RIGHT &trans    &kp RCTRL  
-&kp LSFT     &kp CAPS  &kp LGUI &kp LALT  &kp LSFT &kp LCTL &trans  &trans    &kp "~"   &kp "|"   &kp SEMI &kp CLN   &kp BSLH  &kp RSFT
+&kp LSFT     &kp CAPS  &kp LGUI &kp LALT  &kp LSFT &kp LCTL &mo 2  &mo 3    &kp "~"   &kp "|"   &kp SEMI &kp CLN   &kp BSLH  &kp RSFT
                                &kp LCTRL &kp LALT &kp LGUI   &kp SPACE &kp ENTER  &kp RGUI &kp RALT &kp RCTRL
             >;
 
@@ -45,7 +45,7 @@
 &kp ESC    &kp F1   &kp F2   &kp F3   &kp F4   &kp F5                        &kp F6    &kp F7    &kp F8   &kp F9   &kp F10  &kp F11
 &kp TAB    &kp N1   &kp N2   &kp N3   &kp N4   &kp PLUS                      &trans    &kp N1    &kp N2   &kp N3   &trans   &kp F12
 &kp LCTRL  &kp N4   &kp N5   &kp N6   &kp F4   &kp MINUS                     &trans    &kp N4    &kp N5   &kp N6   &trans   &kp RCTRL
-&kp LSFT   &kp N7   &kp N8   &kp N9   &kp N4   &kp DOT  &trans    &trans     &kp INS   &kp N7    &kp N8   &kp N9   &trans   &kp RSFT
+&kp LSFT   &kp N7   &kp N8   &kp N9   &kp N4   &kp DOT  &mo 2   &mo 3     &kp INS   &kp N7    &kp N8   &kp N9   &trans   &kp RSFT
                           &kp LCTRL &kp LALT &kp LGUI   &kp SPACE &kp ENTER  &kp RGUI &kp RALT &kp RCTRL
             >;
 
